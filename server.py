@@ -6,4 +6,4 @@ app = Flask(__name__)
 def root():
     return "Welcome to flask app v1.0"
 
-app.run(host="0.0.0.0", port=4000)
+app.run(host="0.0.0.0", port=4002)
